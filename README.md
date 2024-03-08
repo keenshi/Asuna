@@ -1,11 +1,11 @@
 # Asuna
 Asuna is a web application that allows users to manage their tasks and create appointments online efficiently.
 
-Front-end:
+<b> Front-end: </b>
 HTML CSS JS jQuery Bootstrap 
-Middle-wear:
+<b> Middle-wear: </b>
 Express.JS
-Back-end:
+<b> Back-end: </b>
 Node.JS 
-Database:
+**Database:**
 MongoDB
